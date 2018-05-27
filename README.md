@@ -8,11 +8,11 @@ Definition for Directors/Chairs and Champions
 
 A leader of a national chapter is acknowledged as the Director. Director represents he/her/they/it country on the Node.js Africa Board of Directors. The Director is tasked with the responsibility of maintaining local chapters that are considered as a WG and co-ordinate team players to be effective.
 
-### Chair: 
+### Chair
 
 A leader of national chapter projects, every project in a national chapter. It’s the responsibility of the Chair to see that all projects are completed and they are active contributors from a national chapter to Node.js Foundation.  A chair can have a Co-Chair.
 
-### Champion: 
+### Champion
 
 A leader of a local chapter that is also considered a Working Group. Chapters in a country. It’s the responsibility of the 
 Champion to organize bi-weekly meetups in a city, putting together mentors and commissioning meetups in state and federal universities in a city. A state or city can have multiple meetup days and venues. Central Venues and University’s Venue. A champion can decide who the Collaborator in each location or venue. 
