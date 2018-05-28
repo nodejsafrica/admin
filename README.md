@@ -35,30 +35,32 @@ New members and not yet active to a local chapter.
 ### Applying for a chapter
 -    Open an issue in nodejsafrica/admin requesting to be a chapter director. The issue should contain aim, objective, and how you intend to build your chapter all in accordance with the existing Node.js Africa Public [Document](https://github.com/nodejsafrica/nodejsafrica). 
 -    If an issue meets all requirement and gets no opposing issue or counter issue to open a chapter in a particular location after 42 hours, the issue gets moved for approval as a PR.
--    A PR referencing to close the issue in nodejsafrica/admin should be submitted by individual requesting to be a chapter director, adding the name of the country and identification name to the bottom of the table in Chapters.md File.
+-    A PR referencing to close the issue in nodejsafrica/admin should be submitted by the individual requesting to be a chapter director, adding the name of the country and identification name to the bottom of the table in Chapters.md File.
 -    If request gets 5 approvals from other existing directors. PR gets merge.
--    An organization with the name of the chapter will be opened and ownership will be transferred to Chapter Directors.
-Closing a chapter
+-    An organization with the name of the chapter will be opened and ownership will be transferred to Chapter's Director.
+
+### Closing a chapter
 -    If a chapter stays inactive for 3 months, no one city chapter. Chapter Organization will be closed by Node.js Africa Chair.
 -    If a chapter gets reported for misconduct to Node.js Africa COC chapter will be suspended. And if Chapter Director is not able to handle misconduct, Chapter Organization will be closed by Node.js Africa Chair.
 
 
 ### Opening A Local Chapter or WG 
 -    A local chapter is considered a WG. A local chapter must have a focus project and a champion. A chair must take opening an LC into full consideration with Nation’s Director and Team. By setting up a 3-month project and ensuring an LC has a venue and have a responsible champion.
--    An individual can open an issue requesting to have an LC or WG in location. A chair is responsible for a validating the venue and requesting for a 3 months project/goal before approving an LC. Were there is no project and Chair has considered the idea of having an LC in a location, a chair is tasked to prepare a 3 months project for the LC.
+-    An individual can open an issue requesting to have an LC or WG in a location. A chair is responsible for a validating the venue and requesting for a 3 months project/goal before approving an LC. Were there is no project and Chair has considered the idea of having an LC in a location, a chair is tasked to prepare a 3 months project for the LC.
 -    A chair will also open a repo to monitor LC activities with the name of the LC e.g. nodejsnigeria/lagos.
 -    A chair will also open a repo to monitor 3 months interval projects for the LC e.g. nodejsnigeria/lagos-p-ecommerce.
-Closing/Suspending A Local Chapter or WG 
+
+### Closing/Suspending A Local Chapter or WG 
 -    If a local chapter has no venue or had a venue and no longer have one. Chair and Champion are tasked with seeking a venue. Where no venue is found an LC can be suspended till an LC have a venue for meetups.
 -    If a report of misconduct, Chair is tasked with looking into the report and consider closing or suspending a chapter.
--    If there is a riot in a location where an LC is located Chair is tasked with closing Temporally Closing a Chapter.
+-    If there is a riot in a location where an LC is located Chair is tasked with temporally closing a Chapter.
 -    If a champion is longer available, Chair is responsible for assigning a new champion, a champion must be a member of the collaborators. 
 
 ## Structuring
 
-**nodejs[country-name]/admin:** Chair is responsible for creating repos for every chapter, that will be considered a working group, each chapter will have a focus project for every three months, mentors are responsible for meeting up to focus with mentees, mentor should ensure that mentorship is group into stages to support different level of knowledge. 
+**nodejs[country-name]/admin:** Chair is responsible for creating repos for every chapter, that will be considered a working group, each chapter will have a focus project for every three months, mentors are responsible for meeting focus project milestones with mentees, mentor should ensure that mentorship is group into stages to support different level of knowledge. 
 
-**nodejs[country-name]/city-chapter:** Workshop Meeting Minutes [Number of Attendees, Topic Treated, Mentor for Meeting, Number of on-ground mentors], README.md [Chapter Info [Location, Meeting Days, Logo] Mentors Name, Active Collaborators [Participants], Active Contributors [Mentor Assistance], Location]
+**nodejs[country-name]/city-chapter:** Workshop Meeting Minutes [Number of Attendees, Topic Treated, Mentor for Meeting, Number of on-ground mentors], README.md [Chapter Info [Location, Meeting Days, Logo] Champion's Name, Active Collaborators [Mentors], Active Contributors [Mentor Assistance, Regular Members], Obeservers, Location]
 
 **nodejs[country-name]/city-chapter-p-project-name:** Current Project distributed by Nation’s Director/Chair. 
 
