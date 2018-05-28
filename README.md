@@ -14,11 +14,21 @@ A leader of national chapter projects, every project in a national chapter. It�
 
 ### Champion
 
-A leader of a local chapter that is also considered a Working Group. Chapters in a country. It’s the responsibility of the 
-Champion to organize bi-weekly meetups in a city, putting together mentors and commissioning meetups in state and federal universities in a city. A state or city can have multiple meetup days and venues. Central Venues and University’s Venue. A champion can decide who the Collaborator in each location or venue. 
-Collaborators: A mentor or anyone who holds a position in the team of a local chapter.
-Contributors: An individual that has been active in a local chapter can be considered to a contributor.
-Observers: New members and not yet active to a local chapter.
+A local chapter that is also considered a Working Group. Chapters in a country. It’s the responsibility of the 
+Champion to organize bi-weekly meetups in a city, putting together mentors and commissioning meetups in state and federal universities in a city. A state or city can have multiple meetup days and venues. Central Venues and University’s Venue. A champion can decide the Collaborators in a location or venue. 
+
+### Collaborator
+
+A mentor or anyone who holds a position in the team of a local chapter.
+
+
+### Contributor
+
+An individual that has been active in a local chapter can be considered to a contributor.
+
+### Observer 
+
+New members and not yet active to a local chapter.
 
 ## Chapters
 
