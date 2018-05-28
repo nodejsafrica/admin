@@ -64,3 +64,7 @@ New members and not yet active to a local chapter.
 
 **nodejs[country-name]/city-chapter-p-project-name:** Current Project distributed by Nation’s Director/Chair. 
 
+
+### QAs
+
+Have a question or a contribution? Please, open an issue in this repo.
