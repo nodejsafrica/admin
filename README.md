@@ -24,11 +24,11 @@ A mentor or anyone who holds a position in the team of a local chapter.
 
 ### Contributor
 
-An individual that has been active in a local chapter can be considered to a contributor.
+An individual that has been active in a local chapter can be considered to contributor.
 
 ### Observer 
 
-New members and not yet active to a local chapter.
+A new member and not yet active to a local chapter.
 
 ## Chapters
 
