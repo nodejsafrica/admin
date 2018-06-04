@@ -6,7 +6,7 @@ Definition for Directors/Chairs and Champions
 
 ### Director
 
-A leader of a national chapter is acknowledged as the Director. Director represents he/her/they/it country on the Node.js Africa Board of Directors. The Director is tasked with the responsibility of maintaining local chapters that are considered as a WG and co-ordinate team players to be effective.
+A leader of a national chapter is acknowledged as the Director. A Director represents he/her country on the Node.js Africa Board of Directors. The Director is tasked with the responsibility of maintaining local chapters that are considered as a WG and co-ordinate team players to be effective.
 
 ### Chair
 
@@ -33,14 +33,14 @@ A new member and not yet active to a local chapter.
 ## Chapters
 
 ### Applying for a chapter
--    Open an issue in nodejsafrica/admin requesting to be a chapter director. The issue should contain aim, objective, and how you intend to build your chapter all in accordance with the existing Node.js Africa Public [Document](https://github.com/nodejsafrica/nodejsafrica). 
+-    Open an issue in nodejsafrica/admin requesting to be a chapter director. The issue should contain aim, objective, and how you intend to coordinate a chapter all in accordance with the existing Node.js Africa Public [Document](https://github.com/nodejsafrica/nodejsafrica). 
 -    If an issue meets all requirement and gets no opposing issue or counter issue to open a chapter in a particular location after 42 hours, the issue gets moved for approval as a PR.
 -    A PR referencing to close the issue in nodejsafrica/admin should be submitted by the individual requesting to be a chapter director, adding the name of the country and identification name to the bottom of the table in Chapters.md File.
 -    If request gets 5 approvals from other existing directors. PR gets merge.
 -    An organization with the name of the chapter will be opened and ownership will be transferred to Chapter's Director.
 
 ### Closing a chapter
--    If a chapter stays inactive for 3 months, no one city chapter. Chapter Organization will be closed by Node.js Africa Chair.
+-    If a chapter stays inactive for 3 months, the Chapter Organization will be closed by Node.js Africa Chair.
 -    If a chapter gets reported for misconduct to Node.js Africa COC chapter will be suspended. And if Chapter Director is not able to handle misconduct, Chapter Organization will be closed by Node.js Africa Chair.
 
 
