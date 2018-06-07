@@ -40,8 +40,13 @@ A new member and not yet active to a local chapter.
 -    An organization with the name of the chapter will be opened and ownership will be transferred to Chapter's Director.
 
 ### Closing a chapter
+
+-    If a chapter stays inactive for 3 months, no one city chapter. Chapter Organization will be closed by Node.js Africa Chair.
+-    If a chapter gets reported for misconduct to Node.js Africa [COC](https://github.com/nodejsafrica/admin/blob/master/CODE_OF_CONDUCT.md) chapter will be suspended. And if Chapter Director is not able to handle misconduct, Chapter Organization will be closed by Node.js Africa Chair.
+
 -    If a chapter stays inactive for 3 months, the Chapter Organization will be closed by Node.js Africa Chair.
 -    If a chapter gets reported for misconduct to Node.js Africa COC chapter will be suspended. And if Chapter Director is not able to handle misconduct, Chapter Organization will be closed by Node.js Africa Chair.
+
 
 
 ### Opening A Local Chapter or WG 
